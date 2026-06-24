@@ -1,0 +1,5 @@
+{
+  "name": "Explainly",
+  "description": "An AI student that learns from you. Teach a concept, and the AI will ask questions to test your understanding and rate your teaching.",
+  "requestFramePermissions": ["microphone"]
+}
