@@ -1,6 +1,3 @@
-Here is a clean, production-ready version of the documentation for the project **aditya-elite/ai-career-mentor-platform**. This version formats the modules clearly, clarifies the workspace layout, and includes precise instructions on how to install and run the core services.
-
----
 
 # AI Career Mentor Platform
 
