@@ -177,4 +177,3 @@ npm run dev
 ---
 
 
-This project is proprietary and confidential. All rights reserved.
